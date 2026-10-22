@@ -1,0 +1,1 @@
+Gere casos de teste de integração para uma loja virtual com API de pedidos, serviço de estoque e serviço de pagamento. Considere timeouts, indisponibilidade de serviços, respostas inválidas, falhas parciais e requisições duplicadas. Informe as entradas e os resultados esperados.

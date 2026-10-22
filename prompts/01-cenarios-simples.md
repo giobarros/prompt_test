@@ -1,0 +1,1 @@
+Gere casos de teste de integração para uma loja virtual que utiliza uma API de pedidos, um serviço de estoque e um serviço de pagamento. Inclua cenários positivos e negativos, com seus respectivos resultados esperados.
